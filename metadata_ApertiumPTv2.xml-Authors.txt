@@ -1,0 +1,16 @@
+Copying and Author information
+
+Resource name: Portuguese LMF Apertium Dictionary
+Resource identifier: http://hdl.handle.net/10230/17111
+Licence: GPL
+
+Authors:
+
+() Universitat Politècnica de Catalunya
+
+() Universitat d'Alacant. Grup Transducens
+
+() Carmen Armentano Oller
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
